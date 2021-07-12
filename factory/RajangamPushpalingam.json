@@ -1,0 +1,9 @@
+{
+	"name": "RajangamPushpalingam",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f455569-ac70-4f3f-a45a-f3c54a062e60",
+		"tenantId": "91553e08-4d0f-4589-b9f6-54ec7ceebafe"
+	}
+}
